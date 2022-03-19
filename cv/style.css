@@ -21,6 +21,7 @@ body > div:first-child > div:first-child > img{
     width: 256px;
     height: 256px;
     border : solid 2px white;
+    object-fit: cover;
 }
 
 body > div:first-child > ul{
